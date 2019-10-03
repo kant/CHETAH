@@ -15,7 +15,7 @@ if (!requireNamespace("BiocManager", quietly = TRUE))
 BiocManager::install("CHETAH")
 ```
 
-To get to know the basics of the CHETAH pacakge, please look at the vignette;
+To get to know the basics of the CHETAH package, please look at the vignette;
 ```{r echo=TRUE, eval=FALSE}
 vignette("CHETAH_introduction")
 ```
